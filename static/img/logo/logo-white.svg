@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="138" height="44" viewBox="0 0 138 44">
+  <g id="Group_2" data-name="Group 2" transform="translate(-10589 -3880)">
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="138" height="44" transform="translate(10589 3880)" fill="rgba(201,17,17,0)"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(10589 3880)">
+      <g id="Layer_1" data-name="Layer 1">
+        <path id="Path_1" data-name="Path 1" d="M37.193,0,24.78,22.782l15.6-5.355Z" transform="translate(-15.82)" fill="#fff"/>
+        <path id="Path_2" data-name="Path 2" d="M57.809,36.54,24.78,47.018l9.491,5.922Z" transform="translate(-15.82 -23.328)" fill="#fff"/>
+        <path id="Path_3" data-name="Path 3" d="M0,67.868l29.764-6.834L42.976,37.8Z" transform="translate(0 -24.133)" fill="#fff"/>
+        <path id="Path_4" data-name="Path 4" d="M136.709,43.576l-3.2.589a7.883,7.883,0,0,0,.21-1.6q0-4.133-5.022-4.133-3.977,0-3.977,2.846,0,2.137,4.429,3.666,8.547,2.936,8.544,8.678a6.8,6.8,0,0,1-2.4,5.424,9.4,9.4,0,0,1-6.374,2.043q-8.8,0-8.8-6.826a13.373,13.373,0,0,1,.087-1.374l3.319-.723a10.8,10.8,0,0,0-.362,2.618q0,4.408,5.062,4.411,4.046,0,4.046-3.178,0-2.365-4.845-4.151-7.007-2.578-6.989-8.222a6.393,6.393,0,0,1,2.336-5.152,9.276,9.276,0,0,1,6.147-1.952Q136.709,36.54,136.709,43.576Z" transform="translate(-76.688 -23.328)" fill="#fff"/>
+        <path id="Path_5" data-name="Path 5" d="M198.164,37.65v23.7H192.91l-9.9-15.005V61.354H180.7V37.65h4.361l10.8,16.2V37.65Z" transform="translate(-115.365 -24.037)" fill="#fff"/>
+        <path id="Path_6" data-name="Path 6" d="M250.621,37.65l6.617,23.7h-6.931L248.9,56.217h-7.137l-1.519,5.138H237.55l7.033-23.7Zm-8.182,16.184h5.818l-2.795-10.507Z" transform="translate(-151.659 -24.037)" fill="#fff"/>
+        <path id="Path_7" data-name="Path 7" d="M307.96,37.65v23.7h-6.87V37.65Z" transform="translate(-192.225 -24.037)" fill="#fff"/>
+        <path id="Path_8" data-name="Path 8" d="M342.278,37.65V58.983h9.744v2.379H335.39V37.65Z" transform="translate(-214.124 -24.037)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
